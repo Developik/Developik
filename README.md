@@ -24,10 +24,10 @@ QA Analyst, DevOps team <br> Feb 2021 – May 2021
 - Tools Used: Python, Selenium, Unittest, Flask, Postman, SQL, Git, Bitbucket, GitLab, Jira, Heroku
 
 <b>TECHNICAL SKILLS</b>  
-- Programming: Python, Java, C++, C, JavaScript, Assembly, JSON, REST, AJAX, CSS, HTML, VS Code, Vim, Git
-- Frameworks / Runtime environments: NodeJS (Express), ReactJS, React Native, Django, Flask
-- Cloud / Testing tools: AWS (Lambda, EC2, S3), Docker, Selenium, Unittest, JUnit, JMeter 
-- Database Systems: MongoDB, PostgreSQL, MSSQL, SQLite 
+- <b>Programming</b>: Python, Java, C++, C, JavaScript, Assembly, JSON, REST, AJAX, CSS, HTML, VS Code, Vim, Git
+- <b>Frameworks / Runtime environments</b>: NodeJS (Express), ReactJS, React Native, Django, Flask
+- <b>Cloud / Testing tools</b>: AWS (Lambda, EC2, S3), Docker, Selenium, Unittest, JUnit, JMeter 
+- <b>Database Systems</b>: MongoDB, PostgreSQL, MSSQL, SQLite 
 
 <b>PROJECTS</b>   
   
