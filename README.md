@@ -6,7 +6,7 @@
 
 <b>Alexa Translations</b>  
 
-Company that provides A.I. translations in legal, financial, and securities sectors for Canadian organizations. <br><br>
+Company that provides A.I. translations in legal, financial, and securities sectors for Canadian organizations.    
 
 Software Engineer, Software Engineering Team  
 May 2021 – Present  
@@ -16,7 +16,8 @@ May 2021 – Present
 - Decoupled monolithic Django Application into few meaningful applications to help the company move to serverless architecture in AWS
 - Tools Used: Python, JavaScript, Django, Flask, MongoDB, Ajax, jQuery, AWS S3, DocumentDB, Lambda, BitBucket
 
-QA Analyst, DevOps team <br> Feb 2021 – May 2021  
+QA Analyst, DevOps team  
+Feb 2021 – May 2021  
 - Created automated and manual tests on different stages of completing a feature using Python Selenium, Unittest
 - Developed new two-way communication from customer to the technical team using Jira, Flask App on Heroku and Google Excel/Drive APIs
 - Contributed to restructuring and enhancing current Python scripts for performing CRUD operations on MsSQL database
